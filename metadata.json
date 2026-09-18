@@ -1,0 +1,8 @@
+{
+  "name": "Remix CyberRiskIQ",
+  "description": "AI-driven platform quantifying cybersecurity risk in financial terms to optimize security investments and business-aligned decision making.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
